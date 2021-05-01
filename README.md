@@ -1,2 +1,2 @@
 # HIMA2
-This includes the R codes for the targeted mediation analysis for high dimensional mediators.
+This includes the R codes to estimate and test high-dimensional mediation effects.

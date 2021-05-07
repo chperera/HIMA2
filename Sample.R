@@ -39,5 +39,5 @@ for (i in 1:p) {
 simdat = simHIMA2(n, p,q,alpha, beta, seed=1234)
 
 # HIMA2 output
-hima2.fit <- HIMA2.0(X=simdat$X, Y=simdat$Y, M=simdat$M, Z=simdat$Z)
-hima2.fit
+hima2.0.fit <- HIMA2.0(X=simdat$X, Y=simdat$Y, M=simdat$M, Z=simdat$Z)
+hima2.0.fit
